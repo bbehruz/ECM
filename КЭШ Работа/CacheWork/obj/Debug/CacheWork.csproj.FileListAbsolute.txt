@@ -1,0 +1,9 @@
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\bin\Debug\CacheWork.exe.config
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\bin\Debug\CacheWork.exe
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\bin\Debug\CacheWork.pdb
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.csprojAssemblyReference.cache
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.Form1.resources
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.Properties.Resources.resources
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.csproj.GenerateResource.cache
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.exe
+C:\Users\zurbe\OneDrive\Рабочий стол\Учёба\Архитектура ЭВМ\CacheWork\CacheWork\obj\Debug\CacheWork.pdb
